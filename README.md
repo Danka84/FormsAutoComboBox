@@ -3,7 +3,7 @@
 The first version of a quasi Oracle Forms Auto Complete Combo Box with native PL/SQL Forms code was developed 2007,
 http://friedhold-matz.blogspot.de/2007/09/autocomplete-combobox.html
 http://www.free-dev.com/chk_lboxproto2.htm
-here is the adapted PoC Demo version for Oracle Forms 12c.
+here is the adapted PoC Demo version for Oracle Forms 12c. test
 
 This extended ComboBox includes 3 states:
 - Classical Forms ComboBox:
